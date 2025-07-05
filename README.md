@@ -1,5 +1,13 @@
 # 🤖 DORE-AI - Your Offline Personal Assistant
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=DORE-AI&fontSize=80&fontAlignY=35&desc=Your%20Offline%20Personal%20Assistant&descAlignY=55&descAlign=50&animation=fadeIn" alt="DORE-AI Banner"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+DORE-AI!;Your+Offline+Personal+Assistant;Voice+Recognition+%2B+AI+Chat;Built+with+Python+%26+Love+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+</div>
+
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -180,4 +188,25 @@ If you encounter any issues:
 
 ⭐ **Star this repo if you found it helpful!**
 
-![Demo](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=DORE-AI+Demo+Screenshot)
+<div align="center">
+  
+### 📸 **Screenshots**
+
+| 🎤 Voice Interface | 💬 Chat Interface | ⚙️ Settings Panel |
+|:---:|:---:|:---:|
+| ![Voice](https://via.placeholder.com/250x150/1a1a1a/ffffff?text=🎤+Voice+Mode) | ![Chat](https://via.placeholder.com/250x150/34495e/ffffff?text=💬+Chat+Mode) | ![Settings](https://via.placeholder.com/250x150/3498db/ffffff?text=⚙️+Settings) |
+
+### 🎯 **Key Features Showcase**
+
+```mermaid
+graph TD
+    A[🎤 Voice Input] --> B[🧠 AI Processing]
+    B --> C[🎵 Music Control]
+    B --> D[💻 System Control]
+    B --> E[📁 File Operations]
+    B --> F[🔍 Web Search]
+    B --> G[⏰ Reminders]
+    B --> H[💬 Chat Response]
+```
+
+</div>
