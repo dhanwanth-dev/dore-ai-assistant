@@ -150,8 +150,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Spidey** - *Lead Developer* - [theprosidd@gmail.com](mailto:theprosidd@gmail.com)
-- **Drackko** - *Co-Developer* - [saidhin27@gmail.com](mailto:saidhin27@gmail.com)
+- **Spidey** - *Lead Developer* - [saidhin27@gmail.com](mailto:saidhin27@gmail.com)
+- **Drackko** - *Co-Developer* - [theprosidd@gmail.com](mailto:theprosidd@gmail.com)
 - **Dhanwanth** - *Contributor* - [dhanwanth.codes@gmail.com](mailto:dhanwanth.codes@gmail.com)
 
 ## 🐛 Issues & Support
@@ -180,4 +180,4 @@ If you encounter any issues:
 
 ⭐ **Star this repo if you found it helpful!**
 
-![Demo](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=DORE-AI+Demo+Screenshot)
+
