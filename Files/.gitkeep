@@ -1,0 +1,11 @@
+# Files Directory
+
+This directory contains application data files:
+
+- `settings.json` - User settings and configuration
+- `user_commands.json` - Custom user commands
+- `error_log.txt` - Application error logs
+- `interaction_log.txt` - User interaction logs
+- `reminders.txt` - User reminders
+
+These files are automatically created when the application runs.
