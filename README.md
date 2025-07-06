@@ -39,8 +39,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/DORE-AI.git
-   cd DORE-AI
+   git clone https://github.com/dhanwanth-dev/dore-ai-assistant.git
+   cd dore-ai-assistant
    ```
 
 2. **Create a virtual environment**
@@ -154,14 +154,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Spidey** - *Lead Developer* - [saidhin27@gmail.com](mailto:saidhin27@gmail.com)
-- **Drackko** - *Co-Developer* - [theprosidd@gmail.com](mailto:theprosidd@gmail.com)
-- **Dhanwanth** - *Contributor* - [dhanwanth.codes@gmail.com](mailto:dhanwanth.codes@gmail.com)
+- **Spidey** - *Lead Developer* - [Sai Dhinakar](https://github.com/SaiDhinakar)
+- **Drackko** - *Co-Developer* - [Siddharth](https://github.com/sudo-sidd)
+- **Dhanwanth** - *Contributor* - [Dhanwanth](https://github.com/dhanwanth-dev)
 
 ## 🐛 Issues & Support
 
 If you encounter any issues:
-1. Check the [Issues](https://github.com/yourusername/DORE-AI/issues) page
+1. Check the [Issues](https://github.com/dhanwanth-dev/dore-ai-assistant/issues) page
 2. Create a new issue with detailed information
 3. Contact the development team
 
